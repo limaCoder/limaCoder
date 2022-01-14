@@ -3,7 +3,7 @@
 <p><em>Software Engineer at <a href="http://www.mutant.com.br">Mutant</a>
 </em></p>
 
-[![Linkedin: mariolima](https://img.shields.io/badge/-mariolima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-augusto-de-lima-a9791819b/)](https://www.linkedin.com/in/mario-augusto-de-lima-a9791819b/)
+[![Linkedin: mariolima](https://img.shields.io/badge/-mariolima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/marioaulima/)](https://www.linkedin.com/in/https://www.linkedin.com/in/marioaulima/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/limaCoder?label=follow&style=social)](https://github.com/limaCoder)
 
 
