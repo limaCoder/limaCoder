@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mario Lima! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <img align='right' src="github-readme-profile.png" width="230">
-<p><em>Frontend Developer at <a href="http://www.marcasite.com.br">Marcasite Agência Digital</a>
+<p><em>Software Engineer at <a href="http://www.mutant.com.br">Mutant</a>
 </em></p>
 
 [![Linkedin: mariolima](https://img.shields.io/badge/-mariolima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-augusto-de-lima-a9791819b/)](https://www.linkedin.com/in/mario-augusto-de-lima-a9791819b/)
