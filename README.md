@@ -1,5 +1,5 @@
 <h2> Hi, I'm Mario Lima! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="github-readme-profile.png" width="230">
+<img align='right' src="github-readme-profile.jpeg" width="230">
 <p><em>Software Engineer at <a href="http://www.mutant.com.br">Mutant</a>
 </em></p>
 
