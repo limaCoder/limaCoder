@@ -10,9 +10,8 @@
 
 ```javascript
 const mario = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Nextjs, Node, Sass, Styled-Components, Bootstrap],
+  code: [Javascript, Typescript, Python],
+  tools: [React, Nextjs, Node, React Native, Tailwind, AI, Fastify, Monorepo, Storybook, React Query, Supabase, Cloudfare, Docker, Git, Figma],
   challenge: "Become a better developer every day"
 }
 ```
